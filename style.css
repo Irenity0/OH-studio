@@ -313,3 +313,23 @@ a:focus {
 .contact-link:hover {
     color: var(--eggshell);
 }
+
+/* footer style */
+footer {
+    justify-content: space-between;
+    padding: 3rem 4rem;
+}
+
+.social-media {
+    padding: 1rem;
+}
+
+.left {
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    font-size: 1.50rem;
+    padding: 0.75rem;
+}
