@@ -333,3 +333,40 @@ footer {
     font-size: 1.50rem;
     padding: 0.75rem;
 }
+
+/* responsive- medium device */
+
+@media screen and (max-width: 768px) {
+    .title {
+        font-size: 2.25rem;
+        line-height: normal;
+    }
+
+    .expertise {
+        display: none;
+    }
+
+    .col {
+        flex-direction: column;
+    }
+
+    .contact-title {
+        font-size: 2rem;
+    }
+
+    .contact-link {
+        font-size: 1.75rem;
+    }
+
+    footer,
+    .left {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .social-media,
+    .logo {
+        padding: 0.5rem;
+    }
+}
