@@ -14,7 +14,17 @@
 	font-family: 'idk'; /* Name your font family */
 	src: url('/neue-montreal-free-demo-pangram-pangram-030418/NeueMontreal-Medium.otf'); /* Locate the .ttf file within your directory*/
   }
-  
+
+@font-face {
+	font-family: 'idk-light'; /* Name your font family */
+	src: url('/neue-montreal-free-demo-pangram-pangram-030418/NeueMontreal-Light.otf'); /* Locate the .ttf file within your directory*/
+}
+
+@font-face {
+	font-family: 'idk-regular'; /* Name your font family */
+	src: url('/neue-montreal-free-demo-pangram-pangram-030418/NeueMontreal-Regular.otf'); /* Locate the .ttf file within your directory*/
+}
+
   body {
 	font-family: 'CustomFont', sans-serif; /* Use the font family */
   }
@@ -320,11 +330,13 @@ footer {
 
 .social-media {
     padding: 1rem;
+    font-family: 'idk-regular', monospace;
 }
 
 .left {
     align-items: center;
     justify-content: center;
+    font-family: 'idk-regular', monospace;
 }
 
 .logo {
