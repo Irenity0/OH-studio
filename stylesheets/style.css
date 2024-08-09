@@ -370,3 +370,30 @@ footer {
         padding: 0.5rem;
     }
 }
+
+/* responsive: mobile */
+@media screen and (max-width: 425px) {
+    .container {
+        margin: 1rem auto;
+    }
+
+    .nav-container {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .hide {
+        display: none;
+    }
+
+    .card {
+        width: auto;
+        height: 265px;
+    }
+
+    .col {
+        justify-content: center;
+        align-self: center;
+    }
+
+}
