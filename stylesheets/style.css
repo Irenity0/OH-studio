@@ -204,8 +204,6 @@ a:focus {
     background-position: center;
 }
 
-/* Additional card styles omitted for brevity */
-
 .card::before {
     content: "";
     position: absolute;
