@@ -263,7 +263,15 @@ body {
 }
 
 #pg2-2img-1-second {
-    background-color: #2a2324;
+    background-color: #98807b;
+}
+
+#pg2-2img-2-first {
+    background-color: #867371;
+}
+
+#pg2-2img-2-second {
+    background-color: #3e393e;
 }
 
 #pg2-1img-2 {
@@ -278,6 +286,24 @@ body {
     background-color: #6e676c;
 }
 
+#pg2-1img-4 {
+    width: auto;
+    height: 26rem;
+    background-color: #221f22;
+}
+
+#pg2-1img-5 {
+    width: auto;
+    height: 26rem;
+    background-color: #2a2324;
+}
+
+#pg2-1img-6 {
+    width: auto;
+    height: 26rem;
+    background-color: #98807b;
+}
+
 #pg2-hiht-img-1 {
     background-color: #3e393e;
 }
@@ -285,14 +311,3 @@ body {
 #pg2-hiht-img-2 {
     background-color: #252629;
 }
-
-#pg2-1img-4 {
-    width: auto;
-    height: 26rem;
-    background-color: #cac0be;
-}
-
-#pg2-2img-2-first {
-    background-color: #867371;
-}
-
