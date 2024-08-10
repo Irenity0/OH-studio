@@ -10,6 +10,7 @@
     --onyx: #2B3331;
     --bistre: #41261B;
     --black-bean: #430B04;
+
 }
 
 body {
@@ -316,4 +317,71 @@ body {
     background-color: #98807b;
     height: 26rem;
     width: 50%;
+}
+
+
+
+
+
+/* page 03 styles */
+#pg3-2img-1-first {
+    background-color: #492d37;
+}
+
+#pg3-2img-1-second {
+    background-color: #291921;
+}
+
+#pg3-2img-2-first {
+    background-color: #804d53;
+}
+
+#pg3-2img-2-second {
+    background-color: #6a323d;
+}
+
+#pg3-2img-3-first {
+    background-color: #4b4d61;
+}
+
+#pg3-2img-3-second {
+    background-color: #453c4c;
+}
+
+#pg3-1img-2 {
+    width: auto;
+    height: 26rem;
+    background-color: #2e171d;
+}
+
+#pg3-1img-3 {
+    width: auto;
+    height: 26rem;
+    background-color: #492d37;
+}
+
+#pg3-1img-4 {
+    width: auto;
+    height: 26rem;
+    background-color: #726579;
+}
+
+#pg3-1img-5 {
+    width: auto;
+    height: 26rem;
+    background-color: #787d96;
+}
+
+#pg3-1img-6 {
+    width: auto;
+    height: 26rem;
+    background-color: #2e171d;
+}
+
+#pg3-hiht-img-1 {
+    background-color: #726579;
+}
+
+#pg3-hiht-img-2 {
+    background-color: #4b4d61;
 }
