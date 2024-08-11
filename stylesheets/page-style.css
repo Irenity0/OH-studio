@@ -207,6 +207,10 @@ body {
     text-align: right;
 }
 
+/* half img reverse section */
+.half-img-section {
+    flex-direction: row-reverse;
+}
 
 
 
@@ -384,4 +388,259 @@ body {
 
 #pg3-hiht-img-2 {
     background-color: #4b4d61;
+}
+
+
+
+
+
+/* page 04 styles */
+#pg4-1img-2 {
+    width: auto;
+    height: 26rem;
+    background-color: #14100f;
+}
+
+#pg4-1img-3 {
+    width: auto;
+    height: 26rem;
+    background-color: #130f11;
+}
+
+#pg4-1img-4 {
+    width: auto;
+    height: 30rem;
+    background-color: #30313a;
+}
+
+#pg4-1img-5 {
+    width: auto;
+    height: 26rem;
+    background-color: #2e171d;
+}
+
+#pg4-1img-6 {
+    width: auto;
+    height: 26rem;
+    background-color: #7c7260;
+}
+
+#pg4-2img-1-first {
+    background-color: #29292f;
+}
+
+#pg4-2img-1-second {
+    background-color: #595359;
+}
+
+#pg4-hi-1 {
+    background-color: #391d1e;
+    height: 26rem;
+    width: 50%;
+}
+
+#pg4-hi-2 {
+    background-color: #595359;
+    height: 26rem;
+    width: 50%;
+}
+
+#pg4-hiht-img-1 {
+    background-color: #e7dcca;
+}
+
+#pg4-hiht-img-2 {
+    background-color: #dbd6d3;
+}
+
+
+
+
+
+/* page 05  styles */
+#pg5-1img-2 {
+    width: auto;
+    height: 26rem;
+    background-color: #30313a;
+}
+
+#pg5-2img-1-first {
+    background-color: #30313a;
+}
+
+#pg5-2img-1-second {
+    background-color: #30313a;
+}
+
+#pg5-hiht-img-1 {
+    background-color: #30313a;
+}
+
+#pg5-hiht-img-2 {
+    background-color: #30313a;
+}
+
+#pg5-1img-3 {
+    width: auto;
+    height: 26rem;
+    background-color: #30313a;
+}
+
+#pg5-2img-2-first {
+    background-color: #30313a;
+}
+
+#pg5-2img-2-second {
+    background-color: #30313a;
+}
+
+#pg5-1img-4 {
+    width: auto;
+    height: 30rem;
+    background-color: #30313a;
+}
+
+#pg5-hi-1 {
+    background-color: #30313a;
+    height: 30rem;
+    width: 50%;
+}
+
+#pg5-hi-2 {
+    background-color: #30313a;
+    height: 30rem;
+    width: 50%;
+}
+
+#pg5-1img-5 {
+    background-color: #30313a;
+    width: auto;
+    height: 30rem;
+}
+
+
+
+
+
+/* page 06 styles */
+#pg6-2img-1-first {
+    background-color: #e46160;
+}
+
+#pg6-2img-1-second {
+    background-color: #ee9262;
+}
+
+#pg6-1img-2 {
+    width: auto;
+    height: 30rem;
+    background-color: #af836a;
+}
+
+#pg6-2img-2-first {
+    background-color: #dfce88;
+}
+
+#pg6-2img-2-second {
+    background-color: #a1b49f;
+}
+
+#pg6-1img-3 {
+    width: auto;
+    height: 30rem;
+    background-color: #96c2d2;
+}
+
+#pg6-hiht-img-1 {
+    background-color: #335aad;
+}
+
+#pg6-hiht-img-2 {
+    background-color: #ac6fc6;
+}
+
+#pg6-1img-4 {
+    width: auto;
+    height: 30rem;
+    background-color: #c2b8af;
+}
+/* colors
+pastel red: #e46160
+pastel orange: #ee9262
+pastel green: #dfce88
+pastel dark green: #a1b49f
+pastel blue: #96c2d2
+pastel indigo: #335aad
+pastel purple: #ac6fc6
+pastel brown: #af836a
+pastel white: #c2b8af
+*/
+
+
+
+
+
+/* page 07 styles */
+/* color
+black: #232229 */
+#pg7-2img-1-first {
+    background-color: #232229;
+}
+
+#pg7-2img-1-second {
+    background-color: #232229;
+}
+
+#pg7-2img-2-first {
+    background-color: #232229;
+}
+
+#pg7-2img-2-second {
+    background-color: #232229;
+}
+
+#pg7-2img-3-first {
+    background-color: #232229;
+}
+
+#pg7-2img-3-second {
+    background-color: #232229;
+}
+
+#pg7-1img-2 {
+    width: auto;
+    height: 26rem;
+    background-color: #232229;
+}
+
+#pg7-1img-3 {
+    width: auto;
+    height: 26rem;
+    background-color: #232229;
+}
+
+#pg7-1img-4 {
+    width: auto;
+    height: 26rem;
+    background-color: #232229;
+}
+
+#pg7-1img-5 {
+    width: auto;
+    height: 26rem;
+    background-color: #232229;
+}
+
+#pg7-1img-6 {
+    width: auto;
+    height: 26rem;
+    background-color: #232229;
+}
+
+#pg7-hiht-img-1 {
+    background-color: #232229;
+}
+
+#pg7-hiht-img-2 {
+    background-color: #232229;
 }
