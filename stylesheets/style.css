@@ -12,17 +12,17 @@
 
 @font-face {
 	font-family: 'idk'; /* Name your font family */
-	src: url('/neue-montreal-free-demo-pangram-pangram-030418/NeueMontreal-Medium.otf'); /* Locate the .ttf file within your directory*/
+	src: url('../neue-montreal-free-demo-pangram-pangram-030418/NeueMontreal-Medium.otf'); /* Locate the .ttf file within your directory*/
   }
 
 @font-face {
 	font-family: 'idk-light'; /* Name your font family */
-	src: url('/neue-montreal-free-demo-pangram-pangram-030418/NeueMontreal-Light.otf'); /* Locate the .ttf file within your directory*/
+	src: url('../neue-montreal-free-demo-pangram-pangram-030418/NeueMontreal-Light.otf'); /* Locate the .ttf file within your directory*/
 }
 
 @font-face {
 	font-family: 'idk-regular'; /* Name your font family */
-	src: url('/neue-montreal-free-demo-pangram-pangram-030418/NeueMontreal-Regular.otf'); /* Locate the .ttf file within your directory*/
+	src: url('../neue-montreal-free-demo-pangram-pangram-030418/NeueMontreal-Regular.otf'); /* Locate the .ttf file within your directory*/
 }
 
   body {
@@ -143,73 +143,73 @@ a:focus {
 }
 
 .card1 {
-    background-image: url('/images/one.jpg');
+    background-image: url('../images/one.jpg');
     background-size: cover; 
     background-position: center;
 }
 
 .card2 {
-    background-image: url('/images/two.png');
+    background-image: url('../images/two.png');
     background-size: cover; 
     background-position: center;
 }
 
 .card3 {
-    background-image: url('/images/three.jpeg');
+    background-image: url('../images/three.jpeg');
     background-size: cover; 
     background-position: center;
 }
 
 .card4 {
-    background-image: url('/images/four.jpeg');
+    background-image: url('../images/four.jpeg');
     background-size: cover; 
     background-position: center;
 }
 
 .card5 {
-    background-image: url('/images/five.jpg');
+    background-image: url('../images/five.jpg');
     background-size: cover; 
     background-position: center;
 }
 
 .card6 {
-    background-image: url('/images/six.jpg');
+    background-image: url('../images/six.jpg');
     background-size: cover; 
     background-position: center;
 }
 
 .card7 {
-    background-image: url('/images/seven.jpg');
+    background-image: url('../images/seven.jpg');
     background-size: cover; 
     background-position: center;
 }
 
 .card8 {
-    background-image: url('/images/eight.jpg');
+    background-image: url('../images/eight.jpg');
     background-size: cover; 
     background-position: center;
 }
 
 .card9 {
-    background-image: url('/images/nine.jpg');
+    background-image: url('../images/nine.jpg');
     background-size: cover; 
     background-position: center;
 }
 
 .card10 {
-    background-image: url('/images/ten.jpeg');
+    background-image: url('../images/ten.jpeg');
     background-size: cover; 
     background-position: center;
 }
 
 .card11 {
-    background-image: url('/images/eleven.jpeg');
+    background-image: url('../images/eleven.jpeg');
     background-size: cover; 
     background-position: center;
 }
 
 .card12 {
-    background-image: url('/images/twelve.jpeg');
+    background-image: url('../images/twelve.jpeg');
     background-size: cover; 
     background-position: center;
 }
