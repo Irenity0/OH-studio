@@ -12,17 +12,17 @@
 
 @font-face {
 	font-family: 'idk'; /* Name your font family */
-	src: url('../neue-montreal-free-demo-pangram-pangram-030418/NeueMontreal-Medium.otf'); /* Locate the .ttf file within your directory*/
+	src: url('../neue-montreal-free-demo-pangram-pangram-030418/neue-montreal-medium.otf'); /* Locate the .ttf file within your directory*/
   }
 
 @font-face {
 	font-family: 'idk-light'; /* Name your font family */
-	src: url('../neue-montreal-free-demo-pangram-pangram-030418/NeueMontreal-Light.otf'); /* Locate the .ttf file within your directory*/
+	src: url('../neue-montreal-free-demo-pangram-pangram-030418/neue-nontreal-light.otf'); /* Locate the .ttf file within your directory*/
 }
 
 @font-face {
 	font-family: 'idk-regular'; /* Name your font family */
-	src: url('../neue-montreal-free-demo-pangram-pangram-030418/NeueMontreal-Regular.otf'); /* Locate the .ttf file within your directory*/
+	src: url('../neue-montreal-free-demo-pangram-pangram-030418/neue-montreal-regular.otf'); /* Locate the .ttf file within your directory*/
 }
 
   body {
